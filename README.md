@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there 👋 I am a Front-End Developer
+www.momo.com up 
 
-<!--
-**Mohamed90-stack/Mohamed90-stack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* 🌍 My portofilio: momo-omar.com
+* 🌱 Self taught, I am learning constantly 
+* 🥅 Targets of 2022:
+   ° Evovle as a professional front end developer
+	 ° Contribute more to Open Source
+*	⚡Passion: I love sport !
 
-Here are some ideas to get you started:
+Let's in contact !
+https://www.linkedin.com/in/mohamed-omar-moussa-61a6131b4/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
