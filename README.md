@@ -1,7 +1,7 @@
 ### Hi there 👋 I am a Front-End Developer
 https://momo-portfolio.vercel.app/ up 
 
-* 🌍 My portofilio: momo-omar.com
+* 🌍 My portofilio: https://momo-portfolio.vercel.app/ up 
 * 🌱 Self taught, I am learning constantly 
 * 🥅 Targets of 2022:
    ° Evovle as a professional front end developer
