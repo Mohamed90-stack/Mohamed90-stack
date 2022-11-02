@@ -3,6 +3,7 @@ https://momo-portfolio.vercel.app/ up
 
 * 🌍 My portofilio: https://momo-portfolio.vercel.app/ up 
 * 🌱 Self taught, I am learning constantly 
+* 🤔 I’m looking for a company that wants a enthusicatic and hard working developer to join their team.
 * 🥅 Targets of 2022:
    ° Evovle as a professional front end developer
 	 ° Contribute more to Open Source
