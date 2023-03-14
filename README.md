@@ -2,7 +2,8 @@
 https://momo-portfolio.vercel.app/ up 
 
 * 🌍 My portofilio: https://momo-portfolio.vercel.app/ up 
-* 🌱 Self taught, I am learning constantly 
+* 🌱 Challenges that I’m currently challenging myself and created an online pdf converter: don't hesitate to use 🌍 https://www.pdfwizardz.com
+* 🌱 Self taught, I am learning constantly. 
 * 🤔 I’m looking for a company that wants a enthusiastic and hard working developer to join their team.
 * 🥅 Targets of 2023:
    ° Evolve as a professional front end developer
