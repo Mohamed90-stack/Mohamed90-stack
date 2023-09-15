@@ -12,5 +12,5 @@ https://momo-portfolio.vercel.app/ up
 *	⚡Passion: I love sport !
 
 Let's in contact !
-https://www.linkedin.com/in/mohamed-omar-moussa-61a6131b4/
+https://www.linkedin.com/in/mohamed-omar-moussa/
 
