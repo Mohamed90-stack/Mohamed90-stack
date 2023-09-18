@@ -1,7 +1,7 @@
 ### Hi there 👋 I am a Front-End Developer
-https://momo-portfolio.vercel.app/ up 
+https://momo-portofolio.vercel.app/ up 
 
-* 🌍 My portofilio: https://momo-portfolio.vercel.app/ up 
+* 🌍 My portfolio: https://momo-portofolio.vercel.app/ up 
 * 🌱 Challenges that I’m currently challenging myself and created an online pdf converter: don't hesitate to use 
 	🌍 https://www.pdfwizardz.com
 * 🌱 Self taught, I am learning constantly. 
