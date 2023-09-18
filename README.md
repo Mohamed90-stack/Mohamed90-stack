@@ -4,7 +4,7 @@ https://momo-portofolio.vercel.app/ up
 * 🌍 My portfolio: https://momo-portofolio.vercel.app/ up 
 * 🌱 Challenges that I’m currently challenging myself and created an online pdf converter: don't hesitate to use 
 	🌍 https://www.pdfwizardz.com
-* 🌱 Self taught, I am learning constantly. 
+* 🌱 Self taught, then graduate from Le Wagon as a Full Stack Developer I am learning constantly. 
 * 🤔 I’m looking for a company that wants a enthusiastic and hard working developer to join their team.
 * 🥅 Targets of 2023:
    ° Evolve as a professional front end developer
